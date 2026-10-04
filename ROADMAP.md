@@ -22,8 +22,8 @@ Reference หลัก: [The Rust Book](https://doc.rust-lang.org/book/) (`rustu
 - [x] 🛠 Mini: Guessing Game (Book ch.2), °C↔°F converter, FizzBuzz, Fibonacci
 
 ## Phase 2 — Ownership (สัปดาห์ 2) · Book ch.4  ⚠️ หัวใจของ Rust
-- [ ] ownership rules, move vs copy, `Clone`
-- [ ] references `&` / `&mut`, borrowing rules
+- [x] ownership rules, move vs copy, `Clone`
+- [x] references `&` / `&mut`, borrowing rules
 - [ ] slices (`&str`, `&[T]`), `String` vs `&str`
 - [ ] 🛠 Mini: `first_word`, reverse words, palindrome checker
 

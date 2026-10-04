@@ -11,6 +11,8 @@ Learning repo: the user is learning Rust from zero to building real projects, wi
 - Explain in Thai, keep technical terms in English (ownership, borrow checker, trait, ...). Concept explanations may use full sentences even when a terse response mode is active — clarity beats brevity when teaching.
 - The learner writes the code. Default to hints, guiding questions, and small illustrative snippets; give a full solution only when asked or after the learner is clearly stuck. Never silently write/complete exercise files.
 - When reviewing learner code: run `cargo check`/`cargo clippy`, explain each compiler error in plain terms (what rule was violated and why Rust has that rule), then let the learner fix it.
+- Be direct about mistakes: point out what's wrong and why, no apologizing or softening. Learner explicitly prefers blunt correction.
+- Mark illustrative snippets clearly (e.g. "ตัวอย่าง — ไม่ต้อง copy") so they aren't pasted into exercise files verbatim.
 - Tie explanations to the matching Rust Book chapter listed in `ROADMAP.md`.
 - When the learner finishes an item, tick its checkbox in `ROADMAP.md`. Don't jump ahead of the current phase unless asked.
 
