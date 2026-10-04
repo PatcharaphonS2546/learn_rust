@@ -8,18 +8,18 @@ Reference หลัก: [The Rust Book](https://doc.rust-lang.org/book/) (`rustu
 ---
 
 ## Phase 0 — Setup (วันที่ 1)
-- [ ] `git init` + `.gitignore` (`/target`)
+- [x] `git init` + `.gitignore` (`/target`)
 - [x] สร้าง Cargo workspace ที่ root (`Cargo.toml` มี `[workspace]`)
 - [x] สร้าง crate แรก `cargo new lessons/00-hello --name hello` แล้ว `cargo run -p hello`
 - [x] Editor: Zed (rust-analyzer + debugger built-in) เปิด inlay hints + clippy on save
 - [x] รู้จัก `cargo check` / `build` / `run` / `test` / `fmt` / `clippy` / `doc --open`
 
 ## Phase 1 — Basics (สัปดาห์ 1) · Book ch.1–3
-- [ ] variables, `mut`, shadowing, constants
-- [ ] scalar/compound types, type inference
-- [ ] functions, expressions vs statements
-- [ ] `if`, `loop`, `while`, `for`, ranges
-- [ ] 🛠 Mini: Guessing Game (Book ch.2), °C↔°F converter, FizzBuzz, Fibonacci
+- [x] variables, `mut`, shadowing, constants
+- [x] scalar/compound types, type inference
+- [x] functions, expressions vs statements
+- [x] `if`, `loop`, `while`, `for`, ranges
+- [x] 🛠 Mini: Guessing Game (Book ch.2), °C↔°F converter, FizzBuzz, Fibonacci
 
 ## Phase 2 — Ownership (สัปดาห์ 2) · Book ch.4  ⚠️ หัวใจของ Rust
 - [ ] ownership rules, move vs copy, `Clone`
