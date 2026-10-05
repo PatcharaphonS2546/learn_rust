@@ -24,7 +24,7 @@ Reference หลัก: [The Rust Book](https://doc.rust-lang.org/book/) (`rustu
 ## Phase 2 — Ownership (สัปดาห์ 2) · Book ch.4  ⚠️ หัวใจของ Rust
 - [x] ownership rules, move vs copy, `Clone`
 - [x] references `&` / `&mut`, borrowing rules
-- [ ] slices (`&str`, `&[T]`), `String` vs `&str`
+- [x] slices (`&str`, `&[T]`), `String` vs `&str`
 - [ ] 🛠 Mini: `first_word`, reverse words, palindrome checker
 
 ## Phase 3 — Structs, Enums, Pattern Matching (สัปดาห์ 3) · Book ch.5–6
