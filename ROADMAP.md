@@ -25,7 +25,7 @@ Reference หลัก: [The Rust Book](https://doc.rust-lang.org/book/) (`rustu
 - [x] ownership rules, move vs copy, `Clone`
 - [x] references `&` / `&mut`, borrowing rules
 - [x] slices (`&str`, `&[T]`), `String` vs `&str`
-- [ ] 🛠 Mini: `first_word`, reverse words, palindrome checker
+- [x] 🛠 Mini: `first_word`, reverse words, palindrome checker
 
 ## Phase 3 — Structs, Enums, Pattern Matching (สัปดาห์ 3) · Book ch.5–6
 - [ ] struct, tuple struct, `impl`, methods, associated fns
